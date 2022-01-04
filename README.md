@@ -1,4 +1,4 @@
-# CS238_final_project
+# CS238 Final Project
 
 This repo contains the code for Monte Carlo Tree Search Applied to Plants vs. Zombies
 
