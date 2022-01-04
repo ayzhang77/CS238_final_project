@@ -1,6 +1,6 @@
 # CS238 Final Project
 
-This repo contains the code for Monte Carlo Tree Search Applied to Plants vs. Zombies
+This repo contains the code for _Monte Carlo Tree Search Applied to Plants vs. Zombies_
 
 by Amy Zhang (ayzhang)
 
